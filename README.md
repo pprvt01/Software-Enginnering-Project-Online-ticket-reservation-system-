@@ -1,4 +1,4 @@
-# 🚌 Online Ticket Reservation System
+# Online Ticket Reservation System
 
 A full‑stack **MERN-based Online Ticket Reservation System** featuring
 real‑time seat booking, admin bus management, payment gateway
@@ -6,9 +6,9 @@ integration (Razorpay), and downloadable ticket PDFs.
 
 ------------------------------------------------------------------------
 
-## 📌 Features
+## Features
 
-### ⭐ User Features
+### User Features
 
 -   Search buses between **Indian cities**
 -   Real‑time **seat selection** (bus seat layout)
@@ -17,7 +17,7 @@ integration (Razorpay), and downloadable ticket PDFs.
 -   View booking history
 -   Responsive UI
 
-### ⭐ Admin Features
+### Admin Features
 
 -   Login to **Admin Panel**
 -   Add / Edit / Delete buses
@@ -26,7 +26,7 @@ integration (Razorpay), and downloadable ticket PDFs.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 
@@ -48,7 +48,7 @@ integration (Razorpay), and downloadable ticket PDFs.
 
 ------------------------------------------------------------------------
 
-## 📂 Folder Structure
+## Folder Structure
 
     online-ticket-reservation/
     │
@@ -72,7 +72,7 @@ integration (Razorpay), and downloadable ticket PDFs.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### **1. Clone the repository**
 
@@ -83,7 +83,7 @@ cd online-ticket-reservation
 
 ------------------------------------------------------------------------
 
-## 🚀 Backend Setup
+## Backend Setup
 
 ### **2. Install backend dependencies**
 
@@ -116,11 +116,11 @@ npm run dev
 ```
 
 Backend will start at\
-👉 http://localhost:5000
+http://localhost:5000
 
 ------------------------------------------------------------------------
 
-## 🎨 Frontend Setup
+## Frontend Setup
 
 ### **5. Install frontend dependencies**
 
@@ -136,11 +136,11 @@ npm run dev
 ```
 
 Frontend will run at:\
-👉 http://localhost:5173
+http://localhost:5173
 
 ------------------------------------------------------------------------
 
-## 🔌 API Endpoints Overview
+## API Endpoints Overview
 
 ### **Auth**
 
@@ -172,7 +172,7 @@ Frontend will run at:\
 
 ------------------------------------------------------------------------
 
-## 🎟️ Ticket PDF Example
+## Ticket PDF Example
 
 Each ticket PDF includes: - Passenger Name\
 - Bus Name\
@@ -185,7 +185,7 @@ Generated using **PDFKit**.
 
 ------------------------------------------------------------------------
 
-## 🛡️ Authentication Flow
+## Authentication Flow
 
 -   JWT used for login session
 -   Admin routes protected using middleware
@@ -193,7 +193,7 @@ Generated using **PDFKit**.
 
 ------------------------------------------------------------------------
 
-## 🧪 Testing
+## Testing
 
 Run backend tests (if added):
 
@@ -203,7 +203,7 @@ npm test
 
 ------------------------------------------------------------------------
 
-## 📦 Build For Production
+## Build For Production
 
 Frontend:
 
@@ -219,19 +219,18 @@ pm2 start server.js
 
 ------------------------------------------------------------------------
 
-## 🤝 Contribution
+## Contribution
 
 Feel free to fork the repo and submit pull requests.
 
 ------------------------------------------------------------------------
 
-## 📄 License
+## License
 
 Licensed under **MIT License**.
 
 ------------------------------------------------------------------------
 
-## 👤 Author
+## Author
 
 **Rahul Agarwal**\
-Full-stack Developer
